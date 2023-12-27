@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>hyper-web1</title>
+        <link rel="stylesheet"href="style.css">
+        <body>
+            <b><a href="#"class="btnbtn-outline-succes mr-3">LOGIN</a></b>
+            <b><a href="#"class="btnbtn-outline-succes mr-3">DAFTAR</a></b>
+
+            <header class="header">
+        <div class="tco-corporation"></div>
+
+                  <ul>
+<li><b><a href="#"> HOME</a></b></li>
+<li><b><a href="#">ABOUT</a></b></li>
+<li><b><a href="#">B.O TIME</a></b></li>
+<li class="dropdown"> <b><a href="#">CHAPSTER</a></b>
+    <ul class="isi-dropdown">
+        <li><a href="#">chapster A</a></li>
+        <li><a href="#">chapster B</a></li>
+         <li><a href="#">chapster C</a></li>
+                 </ul>
+                 </li>
+                </div>
+            </header>
+<br>
+<br>
+<center>
+<h1><p style="color:#FFA500;">WELCOME TO GO CUTT </h1>
+    <h3><p style="color:#DC143c;">solution off hair cut</h3>
+        <h5> <p style="color:#7B68EE;"> OLD,YOUNG,&CHILD</h5>
+            
+
+
+
+
+
+                  </ul>
+
+
+        </body>
+    </head>
+</html>
+
